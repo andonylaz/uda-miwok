@@ -33,12 +33,12 @@ public class Word {
     }
 
     // return the default translation string
-    public String getmDefaultTranslation() {
+    public String getDefaultTranslation() {
         return mDefaultTranslation;
     }
 
     // return the miwok translation string
-    public String getmMiwokTranslation() {
+    public String getMiwokTranslation() {
         return mMiwokTranslation;
     }
 }
